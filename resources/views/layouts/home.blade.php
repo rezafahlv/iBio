@@ -22,8 +22,8 @@
             <div class="flex items-center justify-end">
                 <a href="{{ route('terms') }}">{{ __("Terms") }}</a>
                 <a href="{{ route('policy') }}" class="ml-5">{{ __("Policy") }}</a>
-                <a href="{{ route('login') }}" class="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-primary-600 to-secondary-600 font-normal font-medium text-white transition hover:from-primary-600 hover:to-primary-600 focus:outline-none disabled:opacity-25 px-4 py-2 text-md w-max ml-5">
-                    {{ __("Login") }}
+                <!-- <a href="{{ route('login') }}" class="inline-flex items-center justify-center rounded-xl bg-gradient-to-r from-primary-600 to-secondary-600 font-normal font-medium text-white transition hover:from-primary-600 hover:to-primary-600 focus:outline-none disabled:opacity-25 px-4 py-2 text-md w-max ml-5">
+                    {{ __("Login") }} -->
                 </a>
             </div>
         </div>

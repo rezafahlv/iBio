@@ -1,7 +1,7 @@
 @extends('layouts.home')
 
 @section('page-title')
-    {{ __("iBio | Your only one bio link") }}
+    {{ __("Reza Fahlevi") }}
 @endsection
 
 @push('styles')
